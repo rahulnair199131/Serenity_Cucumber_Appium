@@ -14,6 +14,8 @@ public class LoginPage extends ScenarioSteps {
     public void openApplication() {
 
         login.loadApp();
+        System.out.println("Cucumber Testing - Ramya V");
+        
     }
 
 
